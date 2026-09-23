@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Threat Model E-Commerce",
+    "owner": "Ardiansyah",
+    "description": "aplikasi e commer ini adalah aplikasi untuk UMKM berdagang tanpa perlu khawatir dengan biaya sewa yang mahal",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD System E-Commerce",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data flow Diagram untuk aplikasi pemesanan online"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "April Rustianto, M.Kom",
+    "threatTop": 0
+  }
+}
